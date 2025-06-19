@@ -22,3 +22,6 @@ A Python file (.py) that contains the complete code
 A screenshot of the graphs generated as my visualization dashboard
 
 This project gave me confidence in combining programming with real-time data, and I look forward to working on similar projects like live COVID trackers, stock prices, or pollution level graphs using the same concepts in future.
+
+*OUTPUT*
+![Image](https://github.com/user-attachments/assets/e5f76a9d-d25c-4fca-a652-36fa609f53db)
